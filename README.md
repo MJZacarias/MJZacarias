@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm interested in learning about cybersecurity.
+I'm currently working on learning the vulnerabilities in the SEED labs.
+My favorite hobby is learning to perform cybersecurity attacks.
+Fun fact: I like to roll (BJJ).
+
+
 <!--
 **MJZacarias/MJZacarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
